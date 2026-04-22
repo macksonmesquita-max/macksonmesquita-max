@@ -36,6 +36,8 @@ I identified with the world of programming and, since then,
 I dedicate a few hours of my day to deepening my knowledge
 in software development on a global scale.
 
+[![My Skills](https://skillicons.dev/icons?i=flutter,github,git,nodejs,js,dart,react,python,ts,docker)](https://skillicons.dev)
+
 <details>
 <summary>Mais sobre mim - Português (BR)</summary>
   <br/>  
@@ -54,6 +56,6 @@ in software development on a global scale.
   me identifiquei com o mundo da programação e, desde então,
   dedico algumas horas do meu dia para me aprofundar
   em desenvolvimento de software em escala global.
-
+  
 <br/> 
-<br/>  
+<br/> 
