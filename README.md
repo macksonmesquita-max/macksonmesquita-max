@@ -6,8 +6,8 @@
 <br/>  
 
 - 🔭 I’m currently working on: Jofege Construção e Pavimentação
-- 🌱 I’m currently learning: React, Next, TypeScript, Fluig and Python.
-- 💬 About me: Front dev and begginer
+- 🌱 I’m currently learning: React, Flutter Next, TypeScript, Dart, Fluig and Python.
+- 💬 About me: Front dev
 - 📫 How to reach me: macksondar.mesquita17@gmail.com
 - 🗺️ From: São Paulo, Brazil (BR)
 
